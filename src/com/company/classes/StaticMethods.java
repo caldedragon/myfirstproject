@@ -18,11 +18,8 @@ public class StaticMethods {
     }
 
 
-    public static int factorial(int fn){
-
-      //  for (int x =0; x < )
-
-
+    //public static int factorial(int fn){
+        //for (int x =0; x < )
     }
 
 

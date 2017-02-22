@@ -131,7 +131,7 @@ System.out.print("["+ a +"]"); a++;
         System.out.print("The Sum is: " + StaticMethods.forloops(7));
 
 
-        System.out.println("\n\n GET THE SUM \n");
+        System.out.println("\n\n FACTORIAL \n");
 
         System.out.print("Factorial of " + StaticMethods.factorial(0));
 
